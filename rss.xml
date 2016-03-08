@@ -4,7 +4,7 @@
         <description><![CDATA[1stphoto Site]]></description>
         <link>https://thegrid.ai/1stphoto-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 14:39:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 14:41:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/1stphoto-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/1stphoto-site/3c3ee142-1679-4069-898e-c43ea2601698/index.html</link>
             <guid isPermaLink="false">3c3ee142-1679-4069-898e-c43ea2601698</guid>
             <pubDate>Tue, 08 Mar 2016 14:17:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Double Take]]></title>
+            <description><![CDATA[<article><h1>Double Take</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2dd7b6e95bf8b5b3a0f5e4bf72bfa2f04ae120a0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/1stphoto-site/double-take/index.html</link>
+            <guid isPermaLink="false">35815b53-1c46-4bf0-a9e5-beeb07e5789a</guid>
+            <pubDate>Tue, 08 Mar 2016 14:40:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
