@@ -4,11 +4,18 @@
         <description><![CDATA[1stphoto Site]]></description>
         <link>https://thegrid.ai/1stphoto-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 18:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 18:20:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/1stphoto-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Have a Seat]]></title>
+            <description><![CDATA[<article><h1>Have a Seat</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/22415b21-03cb-4f1d-bb03-41b7d16d5d17.jpg"></article>]]></description>
+            <link>https://thegrid.ai/1stphoto-site/have-a-seat/index.html</link>
+            <guid isPermaLink="false">241b7624-06e5-478d-a952-577aeb0c119d</guid>
+            <pubDate>Tue, 08 Mar 2016 18:19:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Painting Spain]]></title>
-            <description><![CDATA[<article><h1>Painting Spain</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ae182a7-7814-4c75-ba05-0a6694cf0e44.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Painting Spain</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/650ac6e74af3b9b2b935f591756c7aa12047c0a0.jpg"></article>]]></description>
             <link>https://thegrid.ai/1stphoto-site/painting-spain/index.html</link>
             <guid isPermaLink="false">ba6dda83-d020-41bb-bcaf-73b113549fc6</guid>
             <pubDate>Tue, 08 Mar 2016 18:06:47 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/1stphoto-site/flax-collector/index.html</link>
             <guid isPermaLink="false">bc0c90ff-277c-47f4-a9c7-d921b6a490cd</guid>
             <pubDate>Tue, 08 Mar 2016 17:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shadow of Spring]]></title>
-            <description><![CDATA[<article><h1>Shadow of Spring</h1><p>Inspiration can be found in many places...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1553d7da27d5b654eb8d77f37aa9dc48acc9306a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/1stphoto-site/3c3ee142-1679-4069-898e-c43ea2601698/index.html</link>
-            <guid isPermaLink="false">3c3ee142-1679-4069-898e-c43ea2601698</guid>
-            <pubDate>Tue, 08 Mar 2016 16:40:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
