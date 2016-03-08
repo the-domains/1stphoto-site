@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T15:46:16.595Z'
-dateModified: '2016-03-08T15:46:16.196Z'
+datePublished: '2016-03-08T15:51:40.022Z'
+dateModified: '2016-03-08T15:51:32.997Z'
 title: Infinite Skies
 author: []
 sourcePath: _posts/2016-03-08-infinite-skies.md
