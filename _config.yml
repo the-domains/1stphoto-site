@@ -1,4 +1,4 @@
-layout_spectrum: 0.8709677
+name: 1stphoto Site
 opengraph:
   image: null
   type: null
@@ -9,24 +9,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.8470827
+  saturation: 0.008960574
   brandStrength: 0.6686055746395141
-  rhythmicContrast: 0.9749104
+  lightness: 0.953405
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  lightness: 0.4756025
+  rhythmicContrast: 0.2096774
 typography_spectrum: 0.03046595
 cta:
   bucket: null
@@ -37,4 +37,4 @@ analytics:
   google: null
   facebook: null
 favicon: null
-name: 1stphoto Site
+layout_spectrum: 1
