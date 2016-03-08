@@ -1,6 +1,6 @@
 name: 1stphoto Site
 favicon: null
-layout_spectrum: 0.8476703
+layout_spectrum: 0.90511
 typography_spectrum: 0.92081
 collections:
   - index:
@@ -36,5 +36,5 @@ color:
   brandStrength: 0.0625
   lightness: 0.953405
   saturation: 0.008960574
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
