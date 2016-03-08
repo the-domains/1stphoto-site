@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Inspiration can be found in many places...
-datePublished: '2016-03-08T13:22:07.729Z'
-dateModified: '2016-03-08T13:22:04.543Z'
+datePublished: '2016-03-08T13:43:55.803Z'
+dateModified: '2016-03-08T13:26:36.941Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-08-inspiration-can-be-found-in-many-places.md
