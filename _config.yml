@@ -1,40 +1,40 @@
-name: 1stphoto Site
 favicon: null
-layout_spectrum: 0.90511
-typography_spectrum: 0.92081
+name: 1stphoto Site
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
+  saturation: 0.008960574
+  brandStrength: 0.0625
+  lightness: 0.953405
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.0625
-  lightness: 0.953405
-  saturation: 0.008960574
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 0.749104
+typography_spectrum: 0.92081
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.8476703
+analytics:
+  twitter: null
+  google: null
+  facebook: null
