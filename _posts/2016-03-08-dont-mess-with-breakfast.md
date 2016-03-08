@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T18:24:29.873Z'
-dateModified: '2016-03-08T18:24:25.790Z'
+datePublished: '2016-03-08T18:48:17.512Z'
+dateModified: '2016-03-08T18:47:25.659Z'
 title: "Don't Mess With Breakfast"
 author: []
+sourcePath: _posts/2016-03-08-dont-mess-with-breakfast.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-dont-mess-with-breakfast.md
-published: true
 url: dont-mess-with-breakfast/index.html
 _type: Article
 
