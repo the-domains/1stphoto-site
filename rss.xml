@@ -4,11 +4,18 @@
         <description><![CDATA[1stphoto Site]]></description>
         <link>https://thegrid.ai/1stphoto-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 17:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 17:56:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/1stphoto-site/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Total Eclipse]]></title>
+            <description><![CDATA[<article><h1>Total Eclipse</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2aceba85-1d08-4136-a679-5cca3ec9a665.jpg"></article>]]></description>
+            <link>https://thegrid.ai/1stphoto-site/total-eclipse/index.html</link>
+            <guid isPermaLink="false">1230d30e-c4d2-46ef-b046-f95c72224a88</guid>
+            <pubDate>Tue, 08 Mar 2016 17:54:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Pink Pair]]></title>
-            <description><![CDATA[<article><h1>Pink Pair</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1aa83fe-dc8d-41b3-bc1a-fac366e61cef.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Pink Pair</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7be5e0ac5f2dc931996ea3dd37d22c77582728aa.jpg"></article>]]></description>
             <link>https://thegrid.ai/1stphoto-site/pink-pair/index.html</link>
             <guid isPermaLink="false">2bbdbe98-78b5-4b70-8c34-354dc12e4231</guid>
             <pubDate>Tue, 08 Mar 2016 17:52:14 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/1stphoto-site/sailing-in-shelter/index.html</link>
             <guid isPermaLink="false">5e034044-fb58-471b-bd18-884c1eca9bda</guid>
             <pubDate>Tue, 08 Mar 2016 17:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drops Of Jupiter]]></title>
-            <description><![CDATA[<article><h1>Drops Of Jupiter</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c22f74e8a3b3877c70c4ec7e2f317369773d958f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/1stphoto-site/7ca466c7-2ead-4db4-b611-b400ad759f0b/index.html</link>
-            <guid isPermaLink="false">7ca466c7-2ead-4db4-b611-b400ad759f0b</guid>
-            <pubDate>Tue, 08 Mar 2016 17:01:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
