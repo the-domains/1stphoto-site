@@ -1,24 +1,24 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T14:22:34.874Z'
-dateModified: '2016-03-08T14:22:27.098Z'
+datePublished: '2016-03-08T15:46:16.595Z'
+dateModified: '2016-03-08T15:46:16.196Z'
 title: Infinite Skies
 author: []
+sourcePath: _posts/2016-03-08-infinite-skies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-infinite-skies.md
-published: true
+url: infinite-skies/index.html
 _type: Blurb
 
 ---
