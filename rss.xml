@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[1stphoto Site]]></title>
         <description><![CDATA[1stphoto Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/1stphoto-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 12:57:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 13:01:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/1stphoto-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cfb8a33-6584-40cd-8764-e0bebe18b0ec.jpg">]]></description>
+            <link>https://thegrid.ai/1stphoto-site/3f5de5be-1645-4e29-93f4-40fbcbf1374e/index.html</link>
+            <guid isPermaLink="false">3f5de5be-1645-4e29-93f4-40fbcbf1374e</guid>
+            <pubDate>Tue, 08 Mar 2016 13:00:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Inspiration can be found in many places...</p>]]></description>
-            <link>undefinedinspiration-can-be-found-in-many-places/index.html</link>
+            <link>https://thegrid.ai/1stphoto-site/inspiration-can-be-found-in-many-places/index.html</link>
             <guid isPermaLink="false">312945ef-fc59-4cf5-9222-b654e4fa6394</guid>
             <pubDate>Tue, 08 Mar 2016 12:56:09 GMT</pubDate>
         </item>
