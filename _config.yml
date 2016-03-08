@@ -1,7 +1,8 @@
-name: 1stphoto Site
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.09554
+layout_spectrum: 0.8709677
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
@@ -14,27 +15,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+purpose: []
+color:
+  saturation: 0.8470827
+  brandStrength: 0.6686055746395141
+  rhythmicContrast: 0.9749104
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  lightness: 0.4756025
+typography_spectrum: 0.03046595
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#080808'
-    - '#66e8f5'
-    - '#116db8'
-    - '#afafaf'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+favicon: null
+name: 1stphoto Site
