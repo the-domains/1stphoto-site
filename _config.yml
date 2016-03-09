@@ -1,7 +1,7 @@
 name: 1stphoto Site
 favicon: null
 layout_spectrum: 0.50322
-typography_spectrum: 0.1362007
+typography_spectrum: 0.33986
 collections:
   - index:
       path: /
