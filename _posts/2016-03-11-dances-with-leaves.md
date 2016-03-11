@@ -1,0 +1,27 @@
+---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: Dances With Leaves
+datePublished: '2016-03-11T12:57:06.318Z'
+dateModified: '2016-03-11T12:57:05.862Z'
+title: ''
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-03-11-dances-with-leaves.md
+published: true
+url: dances-with-leaves/index.html
+_type: Article
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f990e1cd-1df6-486c-bcd1-926cab81e2f7.jpg)
+
+Dances With Leaves
