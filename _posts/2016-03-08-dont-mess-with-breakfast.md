@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-11T03:58:19.050Z'
-dateModified: '2016-03-11T03:58:18.732Z'
+datePublished: '2016-03-11T04:04:06.439Z'
+dateModified: '2016-03-11T04:04:06.245Z'
 title: "Don't Mess With Breakfast"
 author: []
 sourcePath: _posts/2016-03-08-dont-mess-with-breakfast.md
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 Don't Mess With Breakfast
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df8ff8db-068b-4b31-9473-e8770136b1dc.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cedb22dc5e00bd73657a5693e7dfbdf83eaa0f4.jpg)
