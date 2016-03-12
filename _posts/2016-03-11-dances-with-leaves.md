@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-12T02:50:24.954Z'
-dateModified: '2016-03-12T02:50:20.620Z'
+datePublished: '2016-03-12T02:52:22.401Z'
+dateModified: '2016-03-12T02:52:20.118Z'
 title: Dances With Leaves
 author: []
 authors: []
