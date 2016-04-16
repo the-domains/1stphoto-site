@@ -1,4 +1,4 @@
-name: Poetic Reflection
+name: Emotion Pictures
 favicon: null
 layout_spectrum: 0.6658
 typography_spectrum: 0
@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Poetic Reflection
+title: Emotion Pictures
 cta:
   domain: null
   bucket: null
