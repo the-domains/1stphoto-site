@@ -1,6 +1,6 @@
 name: Emotion Pictures
 favicon: null
-layout_spectrum: 0.55092
+layout_spectrum: 0.66319
 typography_spectrum: 0
 collections:
   - index:
@@ -37,5 +37,5 @@ color:
   brandStrength: 0
   lightness: 0
   saturation: 0.875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
