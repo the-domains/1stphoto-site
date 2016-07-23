@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.875
+  saturation: 0.8243728
   brandStrength: 0.625
-  rhythmicContrast: 0.5394265
+  lightness: 0.3888889
   brandColors:
     - '#f8fefa'
     - '#000000'
     - '#959595'
     - '#ced0df'
     - '#7d5140'
-  lightness: 0.3888889
+  rhythmicContrast: 0.172043
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Emotion Pictures
 favicon: null
+name: Emotion Pictures
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.8207885
-layout_spectrum: 0.7562724
+layout_spectrum: 0.8835126
