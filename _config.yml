@@ -1,41 +1,41 @@
-name: Emotion Pictures
-favicon: null
-layout_spectrum: 0.56498
-typography_spectrum: 0.8207885
 title: Emotion Pictures
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+color:
+  saturation: 0.8243728
+  brandStrength: 0.7204301
+  lightness: 0.3888889
+  brandColors:
+    - '#FFF5D9'
+    - '#000002'
+    - '#553E15'
+    - '#BD9767'
+    - '#029B4A'
+  rhythmicContrast: 0.6953405
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+favicon: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: Emotion Pictures
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#f8fefa'
-    - '#000000'
-    - '#959595'
-    - '#ced0df'
-    - '#7d5140'
-  brandStrength: 0.1875
-  lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.8207885
+layout_spectrum: 0.8835126
